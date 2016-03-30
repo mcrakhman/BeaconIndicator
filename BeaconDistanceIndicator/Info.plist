@@ -30,6 +30,8 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Please authorise this application to access your location to start listening for beacons</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
